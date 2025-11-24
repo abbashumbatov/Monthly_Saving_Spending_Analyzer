@@ -1,4 +1,4 @@
-# 📆 Monthly Financial Dashboard  
+# 📆 Monthly Saving & Spending Analyzer  
 **Python Automation | Personal Finance | Data Analytics**
 
 This project analyzes monthly income and expenses over a period of time and produces a simple “dashboard” in the console.  
@@ -81,8 +81,8 @@ Warning: Expense is more than 50% of the income
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/abbashumbatov/Monthly_Financial_Dashboard.git
-cd Monthly_Financial_Dashboard
+git clone https://github.com/abbashumbatov/Monthly_Saving_Spending_Analyzer.git
+cd Monthly_Saving_Spending_Analyzer
 ```
 
 2. Run the script:
